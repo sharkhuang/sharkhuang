@@ -2,11 +2,12 @@
 
 <h1 align="left">Hai Huang</h1>
 <p align="left">
-  <b>AI Agents</b> • <b>AI-native Engineer</b> • Shipping systems fast
+  <b>AI Agents</b> • <b>AI-native Engineer</b> • Building agent systems
 </p>
 
 <p align="left">
-  I build <b>AI agents</b> that can plan, use tools, and iterate toward outcomes — and I like turning ideas into working software quickly (“vibe coding”).
+  I build <b>AI-native systems</b> where agents can plan, use tools, and iterate toward real outcomes.
+  My focus is designing the <b>agent harness</b> — the infrastructure that lets AI systems reliably do work.
 </p>
 
 <p align="left">
@@ -17,30 +18,21 @@
 
 ---
 
-## 🔥 Focus areas
+## 🔥 Focus Areas
 
 ### 🤖 AI Agents
-- **Tool-using agents**: browse / code / data / APIs
-- **Multi-step workflows**: plan → execute → reflect → improve
-- **Reliability**: guardrails, fallbacks, retries, evals
-- **Applied automation**: agents that do real work (not just demos)
+- **Tool-using agents** — browse / code / data / APIs
+- **Multi-step workflows** — plan → execute → reflect → improve
+- **Long-running agents** — tasks that operate autonomously
+- **Applied automation** — agents that do real work
 
-**I enjoy:** agent evals, tool routing, prompt workflows, RAG + tools, long-running tasks.
-
-### ⚡ Vibe Coding
-- **Spec → prototype → iterate** with tight feedback loops
-- **Codegen + tests** so speed stays maintainable
-- **DevEx**: templates, CI, “one command to run”
-
-**I enjoy:** rapid prototyping, automation, developer productivity.
-
+**Interested in:**  
+agent evals • tool routing • RAG + tools • planning loops • autonomous workflows
 
 ---
 
-## 📫 Contact
-- GitHub: https://github.com/sharkhuang
-- Add: LinkedIn / email / website (optional)
+### 🧠 AI-Native Systems
 
----
+Building software where **AI is part of the runtime**, not just a feature.
 
-<sub>Last updated: 2025-12-26</sub>
+Traditional stack
