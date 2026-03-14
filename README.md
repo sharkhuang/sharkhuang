@@ -2,7 +2,7 @@
 
 <h1 align="left">Hai Huang</h1>
 <p align="left">
-  <b>AI Agents</b> • <b>Vibe Coding</b> • Shipping systems fast
+  <b>AI Agents</b> • <b>AI-native Engineer</b> • Shipping systems fast
 </p>
 
 <p align="left">
