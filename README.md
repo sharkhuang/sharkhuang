@@ -34,5 +34,55 @@ agent evals • tool routing • RAG + tools • planning loops • autonomous w
 ### 🧠 AI-Native Systems
 
 Building software where **AI is part of the runtime**, not just a feature.
+- Traditional stack： Human → Code → Software
+- AI-assisted stack： Human → Prompt → AI → Code → Software
+- AI-native stack ：Human → Intent → AI Agents → Tools → Outcome
 
-Traditional stack
+In this model, the **software is the agent system**.
+
+---
+
+### 🛠 Agent Harness
+
+If LLMs are the **brains**, the **agent harness** is the operating system.
+
+Core components:
+
+- agent orchestration
+- tool routing
+- memory systems
+- evaluation loops
+- observability
+- reliability (guardrails, retries, fallbacks)
+- cost & performance control
+
+Goal: make agents **predictable, reliable, and useful in production**.
+
+---
+
+## 🧪 Current Experiments
+
+- agent harness architecture
+- long-running autonomous workflows
+- tool-using coding agents
+- AI-native developer tools
+- knowledge systems for agents
+
+---
+
+## ⚡ Philosophy
+
+- Software is shifting from deterministic programs to probabilistic agent systems
+- The developer role is shifting from **writing code** to **designing intelligence systems**.
+
+---
+
+## 📫 Connect
+
+GitHub  
+https://github.com/sharkhuang
+
+---
+
+<sub>Last updated: 2026</sub>
+
